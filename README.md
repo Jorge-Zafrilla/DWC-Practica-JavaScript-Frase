@@ -74,5 +74,3 @@ module.exports = {
 
 > Esto hace que el navegador muestre en la consola el error de Javascript `ReferenceError: module is not defined` pero continúa funcionando correctamente
 =======
-# DWEC-Practica-1.2-Frase
->>>>>>> b19799dc6282ea6fa30b9c3e889b321bbfb05cff
