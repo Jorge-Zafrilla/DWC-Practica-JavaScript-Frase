@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Práctica 1.2-Frase
 Repositorio del ejercicio 1.2 del bloque 1 del módulo DWEC de 2nDAW
 
 # Bloc 1: Javascript. UT 1: Sintaxis
 ## Preparar el entorno
-Para realizar esta práctica clona el repositorio <https://github.com/Jorge-Zafrilla/Practica-1.2-Frase.git>
+Para realizar esta práctica clona el repositorio <https://github.com/Jorge-Zafrilla/DWEC-Practica-1.2-Frase.git>
 
 Cuando quieras pasar los test escribe en la terminal:
 ```bash
