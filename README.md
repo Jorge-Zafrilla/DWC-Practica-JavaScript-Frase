@@ -1,5 +1,5 @@
 # Práctica-Frase
-Repositorio del ejercicio 1.2 del bloque 1 del módulo DWEC de 2nDAW
+Repositorio del ejercicio de ejemplo de clase del bloque 1 del módulo DWC de 2nDAW
 
 # Bloc 1: Javascript. UT 1: Sintaxis
 ## Preparar el entorno
