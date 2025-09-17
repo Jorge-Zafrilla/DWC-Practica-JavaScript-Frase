@@ -1,7 +1,7 @@
 # Práctica-Frase
-Repositorio del ejercicio de ejemplo de clase del bloque 1 del módulo DWC de 2nDAW
+Repositorio del ejercicio de ejemplo de clase del módulo DWC de 2nDAW
 
-# Bloc 1: Javascript. UT 1: Sintaxis
+# Bloque 1: Javascript. UT 2: Sintaxis
 ## Preparar el entorno
 Para realizar esta práctica clona el repositorio <https://github.com/Jorge-Zafrilla/DWC-Practica-JavaScript-Frase.git>
 
@@ -10,7 +10,7 @@ Cuando quieras pasar los test escribe en la terminal:
 npm run test
 ```
 
-## Práctica 1.2 - Frase
+## Práctica - Frase
 Vamos a pedir al usuario que introduzca una frase y a continuación mostraremos en la consola:
 - el número de letras y de palabras que tiene
 - la frase en mayúsculas
